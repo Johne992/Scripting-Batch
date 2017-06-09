@@ -28,6 +28,6 @@ echo.
 
 set /p dy2= : 
 
-xcopy /s/d/c/i &dy1% %dy2%
+xcopy /s /d /c /i &dy1% %dy2%
 
 pause
